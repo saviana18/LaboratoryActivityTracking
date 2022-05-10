@@ -1,0 +1,30 @@
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Savi\Documents\PS\Lab3\UTCNSoftwareDesignLab\lab3\C#\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Savi\Documents\PS\Assignment 2\LayersOnWeb\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
